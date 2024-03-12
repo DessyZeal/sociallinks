@@ -105,6 +105,7 @@ cursor: pointer;
 justify-content: center;
 align-items: center;
 display: flex;
+margin-top: 15px;
 }
 .twitter{
 width: 80%;
