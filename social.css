@@ -93,12 +93,18 @@ align-items: center;
 display: flex;
 margin-top: 15px;
 }
-.instagram{
+.Instagram{
 width: 80%;
 height: 11%;
 background-color: hsl(0 0% 20%);
 border-radius: 13px;
 margin-left: 10%;
+color: white;
+text-decoration: none;
+cursor: pointer;
+justify-content: center;
+align-items: center;
+display: flex;
 }
 .twitter{
 width: 80%;
